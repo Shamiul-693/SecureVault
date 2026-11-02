@@ -1,0 +1,4 @@
+# SecureVault runtime dependencies (tested versions)
+PySide6==6.12.0
+cryptography==50.0.1
+argon2-cffi==25.1.0

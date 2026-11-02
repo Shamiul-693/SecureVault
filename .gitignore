@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Never commit vault data or backups
+*.db
+*.db-journal
+*.db.bak
+*.svbak
+SecureVaultData/
+logs/
+
+# Editors / OS
+.idea/
+Thumbs.db
+.DS_Store
+.devdata/

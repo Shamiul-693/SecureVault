@@ -1,0 +1,6 @@
+# Development, testing and packaging
+-r requirements.txt
+pytest>=8.0
+pyflakes>=3.2
+pyinstaller==6.22.3
+pillow>=10.0   # only for tools/make_icon.py
